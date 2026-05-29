@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langgraph
+crewai
+pytest
+pydantic
+python-dotenv
+ 

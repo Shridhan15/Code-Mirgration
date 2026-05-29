@@ -6,7 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+.env
+env
+env/
+_sandbox/
+__pycache__/
+.pytest_cache/
+*.pyc
 node_modules
 dist
 dist-ssr
